@@ -1,0 +1,38 @@
+Project Description 
+
+This project models an airline database system with entities for Passengers, Tickets, Flights, Airports, and Airlines. The relational schema supports analysis of flight operations, passenger behavior, and airline performance. Using SQL queries, the case study demonstrates practical skills in joins, aggregations, window functions, categorization, and ranking to extract actionable insights from aviation data.
+
+
+Key Analyses Performed: 
+
+-- Q1 Identified the busiest airport by the number of flights take off.
+
+
+-- Q2 Calculated total number of tickets sold per airline.
+
+
+-- Q3 Listed all flights operated by 'IndiGo' with airport names (origin and destination).
+
+
+-- Q4 Determined the leading airline by number of departures from each airport.
+
+
+-- Q5 Computed flight times in hours and classified them as Short (<2h), Medium (2–5h), or Long (>5h).
+
+ 
+-- Q6 Extracted each passenger’s first and last flight dates and total flights taken.
+ 
+
+-- Q7 Found the most expensive ticket sold for each origin–destination route.
+
+
+-- Q8 Identified the highest spending passenger within each Frequent Flyer Status group
+
+
+-- Q9 Calculated total revenue and ticket volume per airline, ranking airlines by revenue.
+
+
+-- Q10 Determined each passenger’s most frequently used airline.
+
+    
+
